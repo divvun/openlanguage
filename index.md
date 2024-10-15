@@ -3,6 +3,9 @@
 
 An effort to document the (lack of) support for most of the languages of the world in all major digital systems.
 
+## Content
+{:.no_toc}
+
 * A markdown unordered list which will be replaced with the ToC, excluding the page title from above
 {:toc}
 
@@ -48,7 +51,7 @@ The core of the present state is that our languages are owned by the tech giants
 [Technology exists](https://giellalt.github.io) for building [language technology tools](https://github.com/divvun) for most technology areas and most languages, but making those tools available on the systems people use is a very different matter.
 This site aims to document all areas where human languages matter on digital platforms, and whether that area is open for community access or control.
 
-## Stories from users and societies
+# Stories from users and societies
 
 Background stories about real problems caused by lack of LT support («language blocks»):
 
