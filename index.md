@@ -1,7 +1,9 @@
 # Language technology support for *all* languages in core digital systems
+{:.no_toc}
 
 An effort to document the (lack of) support for most of the languages of the world in all major digital systems.
 
+* A markdown unordered list which will be replaced with the ToC, excluding the page title from above
 {:toc}
 
 # Open Language status pages
