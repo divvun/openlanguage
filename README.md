@@ -1,6 +1,6 @@
-# lt-support
+# Open Language
 
-Documentation of support for all aspects of language technology in various OS and office applications. It is inspired by the [Can I use](https://caniuse.com) site.
+Documentation of support for all aspects of language technology in various OS and office applications. It is inspired by the [Can I use](https://caniuse.com) site. The name is inspired by Open Source. The idea behind Open Language is that language access and use should be open to all language communities, and that localisation, access to install tools and use human language API's should be open and unrestricted.
 
 [The documentation](docs/index.md).
 
