@@ -2,6 +2,30 @@
 
 An effort to document the (lack of) support for most of the languages of the world in all major digital systems.
 
+{:toc}
+
+# Open Language status pages
+
+- [basics: language codes, fonts, keyboards](core/index.md)
+- [proofing tools](proof.md)
+- [speech technology, including digital assistants](speech.md)
+- [localisation](localisation.md)
+- [indexing and search](indexing.md)
+- [packaging and distribution of language support](langpacks.md)
+- [Android phones](androidphones.md)
+
+## Colour coding of status
+
+<table>
+<tr><th>Colour</th> <th>Description</th></tr>
+<tr><td class="blocked">Red</td>    <td>unaccessible for independent 3rd parties</td></tr>
+<tr><td class="partial">Yellow</td> <td>partially accessible for independent 3rd parties</td></tr>
+<tr><td class="good"   >Green</td>  <td>fully accessible for independent 3rd parties</td></tr>
+<tr><td class="unknown">Gray</td>   <td>accessibility status unknown</td></tr>
+</table>
+
+Links to documentation is provided if available/found.
+
 # Background
 
 - 7000+ [languages in the world](https://www.ethnologue.com)
@@ -28,26 +52,3 @@ Background stories about real problems caused by lack of LT support («language 
 
 - [Icelandic](background_stories/Icelandic.md) - «Icelandic language battles threat of 'digital extinction'»
 - [Kildin Sámi](background_stories/KildinSami.md) - the lost letters
-
-# Colour coding of status
-
-<table>
-<tr><th>Colour</th> <th>Description</th></tr>
-<tr><td class="blocked">Red</td>    <td>unaccessible for independent 3rd parties</td></tr>
-<tr><td class="partial">Yellow</td> <td>partially accessible for independent 3rd parties</td></tr>
-<tr><td class="good"   >Green</td>  <td>fully accessible for independent 3rd parties</td></tr>
-<tr><td class="unknown">Gray</td>   <td>accessibility status unknown</td></tr>
-</table>
-
-Links to documentation is provided if available/found.
-
-# Sections
-
-- [basics: language codes, fonts, keyboards](core/index.md)
-- [proofing tools](proof.md)
-- [speech technology, including digital assistants](speech.md)
-- [localisation](localisation.md)
-- [indexing and search](indexing.md)
-- [packaging and distribution of language support](langpacks.md)
-- [Android phones](androidphones.md)
-  
